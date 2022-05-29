@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @afnaayshu
-- 👀 I’m interested in coding and art
+- 👀 I’m interested in coding 
 - 🌱 I’m currently learning c program and i have a good base in c++
 
 <!---
