@@ -1,33 +1,50 @@
-# Afna Ayshu Jaffin 
+## Hi there, I'm Afna Ayshu Jaffin
 
-[![Animated gif showcasing your skills and achievements]](#animation-section)
+<p align="center">
+<img width="20%" src="https://img.icons8.com/ios-filled/96/000000/programming.png"/>
+</p>
 
-Hi there! I'm Afna Ayshu Jaffin, a tech-savvy CSE student on a journey to explore and conquer the fascinating world of technology. 
+- I'm **Student** | **Programmer**
+- Currently Learning **C** , **JAVA**, **Python** & **Deep Learning**
 
-**My Passions:**
+### Feel Free to Contact me.....
 
-* **Software Development:** Building innovative solutions using C, C++, Python, and Java. ⌨️
-* **Artificial Intelligence:** Exploring the potential of AI and its applications through competitions like GDG Cloud Kochi's AI Adapt Search on Kaggle. 
-* **Robotic Process Automation:** Streamlining business processes with RPA to enhance efficiency. 
+<p align="center">
+	<a href="https://api.whatsapp.com/send?phone=919745064634&text=Hi%20...found%20you%20on%20GitHub"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/whatsapp.png"/></a>
+	<a href="https://www.instagram.com/_afnaayshu/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+	<a href="https://www.linkedin.com/in/afna-ayshu-jaffin-02b38b201"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="https://www.facebook.com/afnaayshu.jaffin/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
 
-**My Journey:**
+	
+	
+</p>
 
-* **Currently:** Pursuing a Bachelor's degree in CSE, eager to dive deeper into the world of technology. 
-* **Hackathons:** Actively participating in hackathons to gain hands-on experience and hone my skills. 
-* **Achievements:** Received a special mention in GDG Cloud Kochi's AI Adapt Search competition, fueling my passion for AI. 
+### Programming Languages....
 
-**What I'm Up To:**
+<p align="center">
+  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/html-5.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/css3.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/c-programming.png"/>
+</p>
 
-* **Seeking:** Exciting projects and opportunities to apply my skills and push my boundaries. 
-* **Open to:** Collaborating with like-minded individuals on innovative projects. 
+### Stats...
 
-**Let's Connect!**
+<br>
+<p align=center>
+ <div align=center>
+  <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=jayasankar-shyam&theme=react&hide_border=true&bg_color=0D1117" alt="jayasankar-shyam" />
+  <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=jayasankar-shyam&show_icons=true&count_private=true&theme=react&border_color=61dafb&hide_border=true&count_private=true&show_icons=false" />
+ </div>
+ <br><br><br><br><br><br><br><br><br>
+ <div align=center>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayasankar-shyam&show_icons=true&count_private=true&langs_count=10&hide=ruby&locale=en&layout=compact&hide_border=true&theme=react" alt="jayasankar-shyam" />
+	</div>
+	</p>
 
-* **Portfolio:** [Link to your portfolio website]
-* **LinkedIn:** [Link to your LinkedIn profile]
-* **GitHub:** [Link to your GitHub profile]
-* **Email:** [Your email address]
 
-**#animation-section**
 
-# I'm constantly learning and growing!  Let's connect and embark on exciting tech adventures together! 
+#### Profile views counter
+
+![Visitor Count](https://profile-counter.glitch.me/{jayasankar-shyam}/count.svg)
