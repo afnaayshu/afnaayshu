@@ -23,7 +23,7 @@
 
 <p align="center">
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java.png"/>
+	<img width="10%" style="padding:5px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogowik.com%2Fjava-logo-vector-svg-png-free-download-22086.html&psig=AOvVaw3UXg5oSzU_MCZDwExh7DAn&ust=1707385606793000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjV9JX5mIQDFQAAAAAdAAAAABAS"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/c-programming.png"/>
 </p>
 
