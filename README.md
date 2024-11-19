@@ -4,7 +4,7 @@
 ## Hi there, I'm Afna Ayshu Jaffin! 👋
 
 <p align="center">
-	<img width="20%" src="https://img.icons8.com/ios-filled/96/000000/programming.png"/>
+	<img width="20%" src="https://img.freepik.com/free-vector/female-programmer-working-computer-night_107791-19637.jpg?t=st=1731999013~exp=1732002613~hmac=cf814c3f06751486e2a5e5fa79943a4e1f562703b06bc607d5d5e71edf3fdcbd&w=900"/>
 </p>
 
 ### 🚀 About Me
