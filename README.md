@@ -1,10 +1,7 @@
-
----
-
 ## Hi there, I'm Afna Ayshu Jaffin! 👋
 
 <p align="left">
-	<img src="https://img.freepik.com/free-vector/female-programmer-working-computer-night_107791-19637.jpg?t=st=1731999013~exp=1732002613~hmac=cf814c3f06751486e2a5e5fa79943a4e1f562703b06bc607d5d5e71edf3fdcbd&w=900"/>
+	<img width = 25% src="https://static.vecteezy.com/system/resources/previews/042/165/684/non_2x/a-woman-in-a-business-suit-holding-a-laptop-free-png.png"/>
 </p>
 
 ### 🚀 About Me
