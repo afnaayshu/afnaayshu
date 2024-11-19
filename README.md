@@ -1,4 +1,3 @@
-Here’s the revised README without mentioning CGPA, placement, or master's plans:
 
 ---
 
